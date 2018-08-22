@@ -2,7 +2,7 @@
     "name": "severe-bluejay",
     "displayName": "Severe Bluejay",
     "description": "A theme of steel, wolfram and autumn sky. A fork of an excellent \"Grueling Hare\".",
-    "version": "0.0.1",
+    "version": "0.8.1",
     "publisher": "beatsbury",
     "engines": {
         "vscode": "^1.26.0"
@@ -11,12 +11,13 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Severe Bluejay",
-                "uiTheme": "vs",
-                "path": "./themes/Severe Bluejay-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Severe Bluejay",
+            "uiTheme": "vs",
+            "path": "./themes/Severe Bluejay-color-theme.json"
+        }]
+    },
+    "repository": {
+        "url": "https://github.com/beatsbury/severe_bluejay_theme.git"
     }
 }
