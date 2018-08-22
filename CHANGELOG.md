@@ -3,5 +3,5 @@ All notable changes to the "severe-bluejay" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.8.1]
 - Initial release
