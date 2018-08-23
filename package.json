@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [{
             "label": "Severe Bluejay",
@@ -20,4 +21,5 @@
     "repository": {
         "url": "https://github.com/beatsbury/severe_bluejay_theme.git"
     }
+
 }
