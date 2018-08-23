@@ -2,7 +2,7 @@
     "name": "severe-bluejay",
     "displayName": "Severe Bluejay",
     "description": "A theme of steel, wolfram and autumn sky. A fork of an excellent \"Grueling Hare\".",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "publisher": "beatsbury",
     "engines": {
         "vscode": "^1.26.0"
